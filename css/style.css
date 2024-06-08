@@ -223,6 +223,12 @@
 .h-l {
     font-size: 2rem !important;
 }
+.p-hero {
+    padding: 3.5rem !important;
+}
+.btn-hero {
+    margin-right: 1rem !important;
+}
 .hc-dark {
     color: #00352c;
 }
@@ -251,6 +257,22 @@
 
     .page-header {
         padding: 6rem 0;
+    }
+    .h-xxl {
+        font-size: 2rem !important;
+    }
+    .h-xl {
+        font-size: 1.5rem !important;
+    }
+    .h-l {
+        font-size: 1rem !important;
+    }
+    .p-hero {
+        padding: 0rem !important;
+    }
+    .btn-hero {
+        padding: .5rem 1rem !important;
+        margin-right: .5rem !important;
     }
 }
 
