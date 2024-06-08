@@ -214,7 +214,26 @@
 
 
 /*** Hero Header ***/
+.h-xxl {
+    font-size: 3.5rem !important;
+}
+.h-xl {
+    font-size: 3rem !important;
+}
+.h-l {
+    font-size: 2rem !important;
+}
+.hc-dark {
+    color: #00352c;
+}
+.bg-light {
+    background-color: #befff0 !important;
+}
+.hero-slogan {
+    background-color: #0e2e504f !important;
+}
 .hero-header {
+    
     margin-bottom: 6rem;
     padding: 12rem 0 9rem 0;
     background: url(../img/shape-bottom.png) center bottom no-repeat;
