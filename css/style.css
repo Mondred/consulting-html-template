@@ -233,6 +233,9 @@
     color: #00352c;
 }
 .bg-light {
+    background-color: #7cdac4 !important;
+}
+.bg-light2 {
     background-color: #befff0 !important;
 }
 .hero-slogan {
