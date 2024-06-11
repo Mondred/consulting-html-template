@@ -232,6 +232,15 @@
 .hc-dark {
     color: #00352c;
 }
+.bg-teal {
+    background-color: #44a9b0 !important;
+}
+.bg-teal2 {
+    background-color: #82d0d2 !important;
+}
+.bg-teal3 {
+    background-color: #83e1e2 !important;
+}
 .bg-light {
     background-color: #7cdac4 !important;
 }
