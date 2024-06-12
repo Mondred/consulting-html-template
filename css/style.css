@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #00B98E;
+    --primary: #44a9b0;
     --light: #F3F6F8;
     --dark: #0E2E50;
 }
@@ -229,8 +229,14 @@
 .btn-hero {
     margin-right: 1rem !important;
 }
+.btn-bg-gray {
+    background-color: #dddce3 !important;
+}
+.btn-c-gray {
+    color: #44a9b0 !important;
+}
 .hc-dark {
-    color: #00352c;
+    color: #3F5965;
 }
 .bg-teal {
     background-color: #44a9b0 !important;
@@ -239,7 +245,10 @@
     background-color: #82d0d2 !important;
 }
 .bg-teal3 {
-    background-color: #83e1e2 !important;
+    background-color: #76c7c5 !important;
+}
+.bg-c-teal3 {
+    color: #6fc5c6 !important;
 }
 .bg-light {
     background-color: #7cdac4 !important;
